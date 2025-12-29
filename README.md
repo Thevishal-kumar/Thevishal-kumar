@@ -1,8 +1,10 @@
-                                                      I am ViSHAL KUMAR SINGH
-                                                      
-Currently Working On<br><br>Full-stack applications using MERN Stack (React, Node.js, Express, MongoDB)<br><br>AI-powered systems using ML & Deep Learning models<br><br>Automation workflows and AI agents using n8n<br><br>Data-driven dashboards and data visualization projects<br><br>👯 Open to Collaborate On<br><br>MERN Stack & production-grade full-stack projects<br><br>AI/ML & Deep Learning applications with real-world impact<br><br>Automation, AI agents, and workflow orchestration (n8n)<br><br>Meaningful open-source contributions<br><br>🤝 Looking for Opportunities In<br><br>Software Development (SDE / Full-Stack)<br><br>AI / Machine Learning Engineering roles<br><br>Open-source & high-impact engineering teams<br><br>🌱 Currently Improving<br><br>Advanced Machine Learning & Deep Learning algorithms<br><br>Model optimization, evaluation, and deployment<br><br>Scalable backend systems & API performance<br><br>💬 Ask Me About<br><br>MERN Stack development<br><br>Machine Learning, Deep Learning & Data Visualization<br><br>Building AI agents & automation pipelines with n8n<br><br>Open-source contribution workflows, Git & GitHub<br><br>⚡ Fun Fact<br><br>I enjoy turning raw data and ideas into production-ready AI systems 🚀
-
-
+  I AM VISHAL KUMAR SINGH                                             
+  
+Working on: MERN Stack apps, AI/ML & Deep Learning projects, data visualization, AI agents (n8n)
+ <br>Open to: Full-stack, AI/ML, automation & open-source collaborations
+ <br>Skills: MERN Stack, ML algorithms, Deep Learning, data visualization
+ <br>Ask me about: Full-stack development, AI agents, ML/DL, open source
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-kumar-singh-99006a2a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalsinghsingh2e@gmail.com) 
 
